@@ -1,0 +1,18 @@
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.exe
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.deps.json
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.runtimeconfig.json
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.dll
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.pdb
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.csproj.AssemblyReference.cache
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat_organizacyjny_firmy.Form1.resources
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.csproj.GenerateResource.cache
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.AssemblyInfoInputs.cache
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.AssemblyInfo.cs
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.csproj.CoreCompileInputs.cache
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.dll
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\refint\Schemat organizacyjny firmy.dll
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.pdb
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.genruntimeconfig.cache
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\ref\Schemat organizacyjny firmy.dll
+C:\Users\przybylski.pawel\source\repos\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat_organizacyjny_firmy.Form2.resources
